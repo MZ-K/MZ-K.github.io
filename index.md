@@ -8,7 +8,7 @@ I will be using this page to put out source code of my projects.
 
 My code will be published below soon!
 
-```markdown
+```java
 //TODO: Add my actual code. The given code is just a sample.
 
 public class World {

@@ -13,10 +13,14 @@ My code will be published below soon!
 ```java
 //TODO: Add my actual code. The given code is just a sample.
 
-public class World {
+public class World2021 {
+
+    public boolean isSocialDistancing;
+    public boolean isStayingHome;
+    public boolean isWearingMask;
     
     public static final boolean covidUnleashed() {
-        if (socialDistancing) {
+        if (isSocialDistancing && isStayingHome && isWearingMask) {
             return false;
         }
         return true;

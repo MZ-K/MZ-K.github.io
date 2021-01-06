@@ -19,11 +19,11 @@ public class World2021 {
     public boolean isStayingHome;
     public boolean isWearingMask;
     
-    public static final boolean covidUnleashed() {
+    public static final boolean isCovidDefeated() {
         if (isSocialDistancing && isStayingHome && isWearingMask) {
-            return false;
+            return true;
         }
-        return true;
+        return false;
     }
     
 }

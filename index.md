@@ -1,6 +1,6 @@
 ## Hi, I am Muhammad Zubair Khan
 
-<img src="/Images/profilepic.jpg" width="300" align="right">
+<img src="/Images/profilepic.jpg" width="500" align="right">
 
 I am an undergraduate at [University of California, San Diego](https://ucsd.edu/) majoring in Computer Science. For the past few months, I have been working on an Android Studio App which has helped me explored some basic aspects of Software Development Process. I have also been getting familiar with some Machine Learning concepts. At my current position as an ML research intern, I am working on a sports analytics project which relies heavily on neural networks and data mining. 
 

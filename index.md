@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Hi, I am Muhammad Zubair Khan
 
-You can use the [editor on GitHub](https://github.com/MZ-K/MZ-K.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am an undergraduate at [University of California, San Diego](https://ucsd.edu/) majoring in Computer Science. For the past few months, I have been getting familiar with Machine Learning concepts. At my current position as an ML research intern, I am working on a sports analytics project which relies heavily on neural networks and data mining. My personal projects also consist of an Android Fitness App. I will be using this page to put out my source code of my projects.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### My Code
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My code will be published below soon!
 
 ```markdown
-Syntax highlighted code block
+//TODO: Add my actual code. The given code is just a sample.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+public class World {
+    
+    public static final boolean covidUnleashed() {
+        if (socialDistancing) {
+            return false;
+        }
+        return true;
+    }
+}
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MZ-K/MZ-K.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

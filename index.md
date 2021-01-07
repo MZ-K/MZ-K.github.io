@@ -10,7 +10,7 @@ I will be using this page to put out source code of my projects. I'll be putting
 
 ## Some Random Stuff
 
-2020 has not been the greatest year for most of us. This ongoing global pandemic has really taken its toll on many of us. People are relieveed that the page has been turned and that 2021 is here. But it should be noted that it is still _extremely_ important that we still **practice social distancing**, **stay at home**, and **wear a mask** if we need to overcome covid-19 in 2021. As Dr. Anthony Fauci stated recently:
+2020 has not been the greatest year for most of us. This ongoing global pandemic has really taken its toll on many of us. People are relieved that the page has been turned and that 2021 is here. But it should be noted that it is still _extremely_ important that we still **practice social distancing**, **stay at home**, and **wear a mask** if we need to overcome covid-19 in 2021. As Dr. Anthony Fauci stated recently:
 > I think we just have to assume that it’s going to be worse.
 
 No need to panic though. Fauci tells us to **_assume_** that it's going to be worse. So if we continue to practice the following in 2021:
